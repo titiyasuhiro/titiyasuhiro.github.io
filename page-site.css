@@ -12732,7 +12732,7 @@
   li.active > a.u-button-style.u-text-palette-1-light-2[class*="u-border-"],
   a.u-button-style.u-text-palette-1-light-2,
   a.u-button-style.u-text-palette-1-light-2[class*="u-border-"] {
-    color: #d5c7e8 !important;
+    color: #e6c7e8 !important;
   }
   a.u-button-style.u-text-palette-1-light-2:hover,
   a.u-button-style.u-text-palette-1-light-2[class*="u-border-"]:hover,
@@ -12846,7 +12846,7 @@
   li.active > a.u-button-style.u-text-palette-1-base[class*="u-border-"],
   a.u-button-style.u-text-palette-1-base,
   a.u-button-style.u-text-palette-1-base[class*="u-border-"] {
-    color: #59427a !important;
+    color: #7209b7 !important;
   }
   a.u-button-style.u-text-palette-1-base:hover,
   a.u-button-style.u-text-palette-1-base[class*="u-border-"]:hover,
@@ -16093,140 +16093,14 @@
   /*begin-variables sitestylecss*/
   
   
-  
           .u-body
           {
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
           
           --theme-sheet-width-xl: 1140px;
           --theme-sheet-width-lg: 940px;
           --theme-sheet-width-md: 720px;
           --theme-sheet-width-sm: 540px;
           --theme-sheet-width-xs: 340px;
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
           
           }
   
@@ -16504,14 +16378,14 @@
           .u-image:not(.u-shading) > .u-container-layout > h1:not(.u-title),
           h1:not(.u-title)
           {
-          color: #59427a;
+          color: #7209b7;
           }
           .u-overlap.u-overlap-transparent:not(.u-overlap-contrast) .u-header :not(.u-nav-item) > h2:not(.u-subtitle),
           .u-gradient > .u-container-layout > h2:not(.u-subtitle),
           .u-image:not(.u-shading) > .u-container-layout > h2:not(.u-subtitle),
           h2:not(.u-subtitle)
           {
-          color: #59427a;
+          color: #7209b7;
           }
           .u-overlap.u-overlap-transparent:not(.u-overlap-contrast) .u-header :not(.u-nav-item) > a,
           .u-gradient > .u-container-layout > a,
@@ -16580,15 +16454,15 @@
           /** alt-color-rules **/
           .u-body-color h1:not(.u-title),.u-palette-1-base h1:not(.u-title),.u-palette-1-dark-3 h1:not(.u-title),.u-palette-1-dark-2 h1:not(.u-title),.u-palette-1-dark-1 h1:not(.u-title),.u-palette-1 h1:not(.u-title),.u-palette-1-light-1 h1:not(.u-title),.u-palette-2-dark-3 h1:not(.u-title),.u-palette-2-dark-2 h1:not(.u-title),.u-palette-2-dark-1 h1:not(.u-title),.u-palette-2 h1:not(.u-title),.u-palette-3-base h1:not(.u-title),.u-palette-3-dark-3 h1:not(.u-title),.u-palette-3-dark-2 h1:not(.u-title),.u-palette-3-dark-1 h1:not(.u-title),.u-palette-3 h1:not(.u-title),.u-palette-3-light-1 h1:not(.u-title),.u-palette-4-base h1:not(.u-title),.u-palette-4-dark-3 h1:not(.u-title),.u-palette-4-dark-2 h1:not(.u-title),.u-palette-4-dark-1 h1:not(.u-title),.u-palette-4 h1:not(.u-title),.u-palette-5-dark-3 h1:not(.u-title),.u-palette-5-dark-2 h1:not(.u-title),.u-palette-5-dark-1 h1:not(.u-title),.u-grey-40 h1:not(.u-title),.u-grey-30 h1:not(.u-title),.u-grey-90 h1:not(.u-title),.u-grey-80 h1:not(.u-title),.u-grey-75 h1:not(.u-title),.u-black h1:not(.u-title),.u-grey-70 h1:not(.u-title),.u-grey-60 h1:not(.u-title),.u-grey-50 h1:not(.u-title),.u-grey-dark-3 h1:not(.u-title),.u-grey-dark-2 h1:not(.u-title),.u-grey-dark-1 h1:not(.u-title),.u-grey h1:not(.u-title),.u-shading h1:not(.u-title),.u-overlap-contrast .u-header h1:not(.u-title):not(.u-nav-link):not(.u-btn)
           {
-          color: #d5c7e8;
+          color: #e6c7e8;
           }
           .u-body-color h2:not(.u-subtitle),.u-palette-1-base h2:not(.u-subtitle),.u-palette-1-dark-3 h2:not(.u-subtitle),.u-palette-1-dark-2 h2:not(.u-subtitle),.u-palette-1-dark-1 h2:not(.u-subtitle),.u-palette-1 h2:not(.u-subtitle),.u-palette-1-light-1 h2:not(.u-subtitle),.u-palette-2-dark-3 h2:not(.u-subtitle),.u-palette-2-dark-2 h2:not(.u-subtitle),.u-palette-2-dark-1 h2:not(.u-subtitle),.u-palette-2 h2:not(.u-subtitle),.u-palette-3-base h2:not(.u-subtitle),.u-palette-3-dark-3 h2:not(.u-subtitle),.u-palette-3-dark-2 h2:not(.u-subtitle),.u-palette-3-dark-1 h2:not(.u-subtitle),.u-palette-3 h2:not(.u-subtitle),.u-palette-3-light-1 h2:not(.u-subtitle),.u-palette-4-base h2:not(.u-subtitle),.u-palette-4-dark-3 h2:not(.u-subtitle),.u-palette-4-dark-2 h2:not(.u-subtitle),.u-palette-4-dark-1 h2:not(.u-subtitle),.u-palette-4 h2:not(.u-subtitle),.u-palette-5-dark-3 h2:not(.u-subtitle),.u-palette-5-dark-2 h2:not(.u-subtitle),.u-palette-5-dark-1 h2:not(.u-subtitle),.u-grey-40 h2:not(.u-subtitle),.u-grey-30 h2:not(.u-subtitle),.u-grey-90 h2:not(.u-subtitle),.u-grey-80 h2:not(.u-subtitle),.u-grey-75 h2:not(.u-subtitle),.u-black h2:not(.u-subtitle),.u-grey-70 h2:not(.u-subtitle),.u-grey-60 h2:not(.u-subtitle),.u-grey-50 h2:not(.u-subtitle),.u-grey-dark-3 h2:not(.u-subtitle),.u-grey-dark-2 h2:not(.u-subtitle),.u-grey-dark-1 h2:not(.u-subtitle),.u-grey h2:not(.u-subtitle),.u-shading h2:not(.u-subtitle),.u-overlap-contrast .u-header h2:not(.u-subtitle):not(.u-nav-link):not(.u-btn)
           {
-          color: #d5c7e8;
+          color: #e6c7e8;
           }
           .u-body-color a,.u-palette-1-base a,.u-palette-1-dark-3 a,.u-palette-1-dark-2 a,.u-palette-1-dark-1 a,.u-palette-1 a,.u-palette-1-light-1 a,.u-palette-2-dark-3 a,.u-palette-2-dark-2 a,.u-palette-2-dark-1 a,.u-palette-2 a,.u-palette-3-base a,.u-palette-3-dark-3 a,.u-palette-3-dark-2 a,.u-palette-3-dark-1 a,.u-palette-3 a,.u-palette-3-light-1 a,.u-palette-4-base a,.u-palette-4-dark-3 a,.u-palette-4-dark-2 a,.u-palette-4-dark-1 a,.u-palette-4 a,.u-palette-5-dark-3 a,.u-palette-5-dark-2 a,.u-palette-5-dark-1 a,.u-grey-40 a,.u-grey-30 a,.u-grey-90 a,.u-grey-80 a,.u-grey-75 a,.u-black a,.u-grey-70 a,.u-grey-60 a,.u-grey-50 a,.u-grey-dark-3 a,.u-grey-dark-2 a,.u-grey-dark-1 a,.u-grey a,.u-shading a,.u-overlap-contrast .u-header a:not(.u-nav-link):not(.u-btn)
           {
-          color: #d5c7e8;
+          color: #e6c7e8;
           }
           .u-body-color a:hover,.u-palette-1-base a:hover,.u-palette-1-dark-3 a:hover,.u-palette-1-dark-2 a:hover,.u-palette-1-dark-1 a:hover,.u-palette-1 a:hover,.u-palette-1-light-1 a:hover,.u-palette-2-dark-3 a:hover,.u-palette-2-dark-2 a:hover,.u-palette-2-dark-1 a:hover,.u-palette-2 a:hover,.u-palette-3-base a:hover,.u-palette-3-dark-3 a:hover,.u-palette-3-dark-2 a:hover,.u-palette-3-dark-1 a:hover,.u-palette-3 a:hover,.u-palette-3-light-1 a:hover,.u-palette-4-base a:hover,.u-palette-4-dark-3 a:hover,.u-palette-4-dark-2 a:hover,.u-palette-4-dark-1 a:hover,.u-palette-4 a:hover,.u-palette-5-dark-3 a:hover,.u-palette-5-dark-2 a:hover,.u-palette-5-dark-1 a:hover,.u-grey-40 a:hover,.u-grey-30 a:hover,.u-grey-90 a:hover,.u-grey-80 a:hover,.u-grey-75 a:hover,.u-black a:hover,.u-grey-70 a:hover,.u-grey-60 a:hover,.u-grey-50 a:hover,.u-grey-dark-3 a:hover,.u-grey-dark-2 a:hover,.u-grey-dark-1 a:hover,.u-grey a:hover
           {
