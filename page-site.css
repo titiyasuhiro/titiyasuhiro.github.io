@@ -16502,7 +16502,7 @@
     margin: 22px auto 0 0;
   }
   
-  .u-header .u-logo-image-1 {
+  .u-header /*.u-logo-image-1*/ {
     width: 100%;
     height: 100%;
   }
