@@ -21,7 +21,7 @@
   
   .u-section-1 .u-image-1 {
     object-position: 100% 50%;
-    height: 590px;
+    height: 800px;
     width: 467px;
     --animation-custom_in-translate_x: 0px;
     --animation-custom_in-translate_y: 300px;
@@ -57,7 +57,7 @@
   }
   
   .u-section-1 .u-text-1 {
-    font-size: 4.5rem;
+    font-size: 4rem;
     margin: 20px 0 0;
   }
   
@@ -98,7 +98,7 @@
     }
   
     .u-section-1 .u-image-1 {
-      height: 539px;
+      height: 700px;
       width: 415px;
     }
   
@@ -129,7 +129,7 @@
     }
   
     .u-section-1 .u-image-1 {
-      height: 407px;
+      height: 500px;
       margin-right: initial;
       margin-left: initial;
       width: auto;
@@ -159,7 +159,7 @@
     }
   
     .u-section-1 .u-image-1 {
-      height: 658px;
+      height: 750px;
       width: auto;
       margin-right: initial;
       margin-left: initial;
@@ -194,7 +194,7 @@
     }
   
     .u-section-1 .u-image-1 {
-      height: 437px;
+      height: 550px;
       width: auto;
       margin-right: initial;
       margin-left: initial;
